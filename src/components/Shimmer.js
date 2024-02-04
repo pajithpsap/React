@@ -1,18 +1,24 @@
 const Shimmer = () => {
   return (
-    <div className="shimmer-conatiner">
-        <div className="a-sh"></div>
-        <div className="a-sh"></div>
-        <div className="a-sh"></div>
-        <div className="a-sh"></div>
-        <div className="a-sh"></div>
-        <div className="a-sh"></div>
-        <div className="a-sh"></div>
-        <div className="a-sh"></div>
-        <div className="a-sh"></div>
-        <div className="a-sh"></div>
-        <div className="a-sh"></div>
-        <div className="a-sh"></div>
+    <div className="shimmer-container">
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
+      <div className="shimmer-card"></div>
     </div>
   );
 };
