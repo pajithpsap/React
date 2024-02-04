@@ -1,0 +1,33 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is React NR",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pajithpsap/React.git"
+  },
+  "keywords": [
+    "react",
+    "Nr"
+  ],
+  "author": "Ajith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pajithpsap/React/issues"
+  },
+  "homepage": "https://github.com/pajithpsap/React#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.3"
+  }
+}
